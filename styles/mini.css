@@ -1,0 +1,66 @@
+* {
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+}
+
+#firstLogo {
+    max-width: 146.683px;
+    height: 21.023px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 470px;
+    margin-top: 25px;
+}
+
+#whatt {
+    font-size: 18px;
+    font-weight: 600;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 25px;
+    margin-left: 176.17px;
+    margin-right: 20px;
+}
+
+#offering {
+    font-size: 18px;
+    font-weight: 400px;
+    margin-top: 25px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 20px;
+}
+
+#contacting {
+    font-size: 18px;
+    font-weight: 400px;
+    margin-top: 25px;
+    margin-right: 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#helping {
+    font-size: 18px;
+    font-weight: 400px;
+    margin-top: 25px;
+    margin-right: 176.17px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#connection {
+    border-radius: 8px;
+    color: #FFFFFF;
+    background-color: #00AC25;
+    padding: 8px 16px;
+    margin-top: 25px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+h1 {
+    max-width: 1316px;
+    height: 174px;
+}
