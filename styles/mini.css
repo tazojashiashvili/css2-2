@@ -63,4 +63,133 @@
 h1 {
     max-width: 1316px;
     height: 174px;
+    color: #000000;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 700;
+    margin-top: 178px;
+}   
+
+span {
+    color: #FF5DA3;
+}
+#worldWide {
+    max-width: 1316px;
+    height: 64px;
+    font-size: 24px;
+    font-weight: 400px;
+    text-align: center;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    max-width: 1316px;
+    height: 59px;
+    color: #000000;
+    margin-bottom: 24px;
+}
+
+p {
+    color: #6941C6;
+    font-size: 24px;
+    font-weight: 400px;
+    text-align: center;
+    max-width: 716px;
+    height: 96px;
+}
+
+#gid {
+    color: #FFFFFF;
+    background-color: #00AC25;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+    max-width: 233px;
+    height: 54px;
+    padding: 16px 24px;
+}
+
+#footerList {
+    background-color: #53389E;
+    margin-top: 578px;
+    max-width: 1920px;
+    height: 128px;
+}
+
+#lastLogo {
+    margin-left: 320px;
+    padding-top: 48px;
+    padding-bottom: 48px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#viewing {
+    font-size: 16px;
+    font-weight: 600;
+    color: #E9D7FE;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 210px;
+    margin-right: 32px;
+}
+
+#futuring {
+    color: #E9D7FE;
+    font-size: 16px;
+    font-weight: 600;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 32px;
+}
+
+#price {
+    color: #E9D7FE;
+    font-size: 16px;
+    font-weight: 600;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 32px;
+}
+
+#careering {
+    color: #E9D7FE;
+    font-size: 16px;
+    font-weight: 600;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 32px;
+}
+
+#helping {
+    color: #E9D7FE;
+    font-size: 16px;
+    font-weight: 600;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 32px;
+    margin-bottom: 25px;
+}
+
+#private {
+    color: #E9D7FE;
+    font-size: 16px;
+    font-weight: 600;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 192px;
+}
+
+#coping {
+    display: inline-block;
+    vertical-align: middle;
+    color: #D6BBFB;
+    font-size: 16px;
+    font-weight: 400;
 }
